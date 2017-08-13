@@ -1,9 +1,21 @@
-name: "Abhishek's website"
+name: "Abhishek Gupta"
 output_dir: "."
 navbar:
-  title: "Abhishek's Website"
-  left:
+  title: "Abhishek Gupta"
+  right:
     - text: "Home"
+      icon: fa-home
       href: index.html
     - text: "About Me"
+      icon: fa-newspaper-o
       href: about.html
+    - text: "Works"
+      icon: fa-book
+      href: Works.html
+    - text: "Experience"
+      icon: fa-black-tie
+      href: experience.html
+    - text: "Contact Me"
+      icon: fa-user
+      href: ContactMe.html
+  footer: "Copyright (c) 2014 RStudio"

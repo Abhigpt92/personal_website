@@ -6,3 +6,4 @@ setwd("\\Users\\gupta\\personal_website")
 
 #render your sweet site. 
 rmarkdown::render_site()
+
