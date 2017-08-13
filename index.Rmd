@@ -8,4 +8,6 @@ title: ""
 
 <i class="fa fa-quote-left fa-3x fa-pull-left fa-border" aria-hidden="true"></i>  Intuitive Data Analyst with high \"figure it out\" quotient!
 
+***
+
 ![](Abhi_1.jpg)
