@@ -1,17 +1,22 @@
 ---
 title: "Experience" 
 ---
-Tata Consultancy Services (Kolkata)				         October 2015 - Till Date
+***
+###Tata Consultancy Services,Kolkata
+####January 2016 - Till Date
+![](tcs.gif)
 
-Key responsibilities:
-As a Database Administrator:
-a) Involved in Application & Database Production Support 24 *7.
-b) Rebuilding the indexes at regular intervals for better performance.
-c) Using log shipping for synchronization of database
-d) Designed and implemented comprehensive Backup plan and disaster recovery strategies Implemented.
-e) Moved files between the File Groups and partitioned the tables to improve the performance.
-f) Monitoring SQL server performance using profiler to find performance
-g) Worked on complex T-SQL statements, and implemented various codes and functions.
-h) Write T-SQL Scripts for database backup jobs and daily/weekly jobs.
-i) Backing up, restoring the data base manually and also by scheduling the jobs and Maintenance Plans.
-j) Experience in implementing High availability solutions like different Replication models (Snapshot and Transactional), Log shipping, Clustering and Mirroring on physical and virtual machines
+
+#####Key responsibilities:
+#####Worked as a Database Administrator for client Apoteket AB, Sweden:
+
+* Involved in Application & Database Production Support 24 *7.
+  + Rebuilding the indexes at regular intervals for better performance.
+  + Using log shipping for synchronization of database
+  + Designed and implemented comprehensive Backup plan and disaster recovery strategies Implemented.
+  + Moved files between the File Groups and partitioned the tables to improve the performance.
+  + Monitoring SQL server performance using profiler to find performance
+  + Worked on complex T-SQL statements, and implemented various codes and functions.
+  + Write T-SQL Scripts for database backup jobs and daily/weekly jobs.
+  + Backing up, restoring the data base manually and also by scheduling the jobs and Maintenance Plans.
+  + Experience in implementing High availability solutions like different Replication models (Snapshot and Transactional), Log shipping, Clustering and Mirroring on physical and virtual machines
