@@ -18,4 +18,4 @@ navbar:
     - text: "Contact Me"
       icon: fa-user
       href: ContactMe.html
-  footer: "Copyright (c) 2014 RStudio"
+  footer: "Copyright (c) 2017 Abhishek Gupta"
